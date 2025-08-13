@@ -29,8 +29,8 @@ Ensure you have Python installed (version 3.x recommended).
 
 Clone this repository:
   ```bash
-  git clone <repo-url>
-  cd <repo-folder>
+  git clone git@github.com:BrendahKiragu/python-week3-assignment.git
+  cd python-week3-assignment
 ```
 Run the program:
 ```bash
